@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Petri
 
 Currently an engineer at Tencent Big Data, also a researcher whose interests lie in:
-- 🔭 modern (vectoriced/JIT/pipelined) OLAP query engine
+- 🔭 modern (vectorized/JIT/pipelined) OLAP query engine
 - 🌱 vector index and approximate nearest neighbor serch
 - 🤔 designing interesting toy programming languages
 

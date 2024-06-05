@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi there 👋 I'm Petri
+
+Currently an engineer at Tencent Big Data, also a researcher whose interests lie in:
+- 🔭 modern (vectoriced/JIT/pipelined) OLAP query engine
+- 🌱 vector index and approximate nearest neighbor serch
+- 🤔 designing interesting toy programming languages
 
 <!--
 **petrizhang/petrizhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

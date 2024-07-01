@@ -2,7 +2,7 @@
 
 Currently an engineer at Tencent Big Data, also a researcher whose interests lie in:
 - 🔭 modern (vectorized/JIT/pipelined) OLAP query engine
-- 🌱 vector index and approximate nearest neighbor serch
+- 🌱 vector index and approximate nearest neighbor search
 - 🤔 designing interesting toy programming languages
 
 <!--

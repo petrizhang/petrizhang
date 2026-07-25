@@ -2,6 +2,8 @@
 
 I am a Senior Engineer at Tencent Big Data. My research interests include:
 
+🌐 [Personal Homepage](https://petrizhang.github.io/)
+
 - 🔭 **Modern Execution Engine:** vectorized execution, JIT query compilation, and GPU query execution
 - 🌱 **Distributed Data Processing:** distributed OLAP, batch processing, and query optimization
 - 🔎 **Vector Database:** vector indexing, approximate nearest-neighbor search, and filtered search

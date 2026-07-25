@@ -1,9 +1,10 @@
 ### Hi there 👋 I'm Petri
 
-Currently an engineer at Tencent Big Data, also a researcher whose interests lie in:
-- 🔭 modern (vectorized/JIT/pipelined) OLAP query engine
-- 🌱 vector index and approximate nearest neighbor search
-- 🤔 designing interesting toy programming languages
+I am a Senior Engineer at Tencent Big Data. My research interests include:
+
+- 🔭 **Modern Execution Engine:** vectorized execution, JIT query compilation, and GPU query execution
+- 🌱 **Distributed Data Processing:** distributed OLAP, batch processing, and query optimization
+- 🔎 **Vector Database:** vector indexing, approximate nearest-neighbor search, and filtered search
 
 <!--
 **petrizhang/petrizhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

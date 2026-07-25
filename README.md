@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Petri
 
-I am a Senior Engineer at Tencent Big Data. My research interests include:
+I am a Senior Engineer at Tencent Big Data.
 
 🌐 [Personal Homepage](https://petrizhang.github.io/)
+
+My research interests include:
 
 - 🔭 **Modern Execution Engine:** vectorized execution, JIT query compilation, and GPU query execution
 - 🌱 **Distributed Data Processing:** distributed OLAP, batch processing, and query optimization
